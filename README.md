@@ -1,5 +1,5 @@
 # PatikaAcademy-Js-Hw-01
-Ödev 1 Javascript Saat, Karşılama ve en altta ayrıyetten tıklanılmaz bir buton ekledim.
+Ödev 1 Javascript Saat, Karşılama ödevi. En alt kısma ayrıyetten tıklanılmaz bir buton ekledim.
 
 
 
